@@ -14,10 +14,10 @@
 - Programming language: **Java**
 - UI Automation: **Selenium WebDriver, Selenide**
 - API Automation: **RestAssured**
-- Unit testing frameworks: **JUnit**
-- BDD frameworks: **JBehave**
+- Unit testing framework: **JUnit**
+- BDD framework: **JBehave**
 - Reporting: **Allure, ReportPortal**
-- Version control systems: **Git**
+- Version control system: **Git**
 - СI/CD: **GitLab, Jenkins**
 - Deploying autotests: **Containers (Docker, Selenoid), Selenium Grid**
 - Software development methodologies: **TDD, BDD, ATDD**
