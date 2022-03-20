@@ -16,7 +16,7 @@
 - API Automation: **RestAssured**
 - Unit testing framework: **JUnit**
 - BDD framework: **JBehave**
-- Reporting: **Allure, ReportPortal**
+- Reporting: **Allure
 - Version control system: **Git**
 - СI/CD: **GitLab, Jenkins**
 - Deploying autotests: **Containers (Docker, Selenoid), Selenium Grid**
