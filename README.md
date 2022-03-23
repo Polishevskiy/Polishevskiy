@@ -6,7 +6,6 @@
 ![Selenium](https://user-images.githubusercontent.com/78253233/159083429-498d86d0-15b7-40d3-9fbc-2ba8db01d891.png)
 ![RESTassured](https://user-images.githubusercontent.com/78253233/159083426-341ae926-ab7d-442d-9f61-52c0ffc82f41.png)
 ![allureReport](https://user-images.githubusercontent.com/78253233/159085224-84afa541-3ed9-4d1f-adb3-25fdfd47d16e.svg)
-![gitlab](https://user-images.githubusercontent.com/78253233/159084688-d636e667-fa88-47f0-ba8e-663090369b80.png)
 ![Jenkins](https://user-images.githubusercontent.com/78253233/159085221-b9069213-8e10-4cd3-b7dc-bd74bd3d35f3.svg)
 ![Github](https://user-images.githubusercontent.com/78253233/159083417-61bd5733-43d2-497f-ac1b-dfa9c9c1c7ad.png)
 
@@ -15,10 +14,9 @@
 - UI Automation: **Selenium WebDriver, Selenide**
 - API Automation: **RestAssured**
 - Unit testing framework: **JUnit**
-- BDD framework: **JBehave**
 - Reporting: **Allure**
 - Version control system: **Git**
-- СI/CD: **GitLab, Jenkins**
+- СI/CD: **Jenkins**
 - Deploying autotests: **Containers (Docker, Selenoid), Selenium Grid**
 - Software development methodologies: **TDD, BDD, ATDD**
 - Auto test design patterns: **Page Object, Pojo**
