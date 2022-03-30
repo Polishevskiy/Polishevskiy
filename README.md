@@ -9,6 +9,7 @@
 ![Jenkins](https://user-images.githubusercontent.com/78253233/159085221-b9069213-8e10-4cd3-b7dc-bd74bd3d35f3.svg)
 ![Github](https://user-images.githubusercontent.com/78253233/159083417-61bd5733-43d2-497f-ac1b-dfa9c9c1c7ad.png)
 
+**Technology Stack**
 
 - Programming language: **Java**
 - UI Automation: **Selenium WebDriver, Selenide**
@@ -20,4 +21,16 @@
 - Deploying autotests: **Containers (Docker, Selenoid), Selenium Grid**
 - Software development methodologies: **TDD, BDD, ATDD**
 - Auto test design patterns: **Page Object, Pojo**
-- General activities: **autotest framework architecture development, planning, labor cost estimation, ROI calculation, team development, Code review**
+
+**HARD SKILLS**
+
+- Proficiency in reporting bugs, creating test documentation
+- Experience in automation testing using Java
+- Experience in UI Automation Selenium Web Driver/Selenide
+- Experience in API Automation RestAssured
+- Experience with Reporting Tools (Allure)
+- Experience with CI/CD Tools (Jenkins)
+- Experience with Version control system (Git)
+- Knowledge of SQL
+- Basic knowledge of design patterns (Page Object, Pojo)
+- Experience in developing test automation framework from scratch
