@@ -18,8 +18,8 @@
 - Reporting: **Allure**
 - Version control system: **Git**
 - СI/CD: **Jenkins**
-- Deploying autotests: **Containers (Docker, Selenoid), Selenium Grid**
-- Software development methodologies: **TDD, BDD, ATDD**
+- Test Automation Approaches: **DDT, KDT, TDD, BDD**
+- Development Best Practices: **KISS, YANGI, DRY, AAA, "F.I.R.S.T", "S.O.L.I.D"**
 - Auto test design patterns: **Page Object, Pojo**
 
 **HARD SKILLS**
