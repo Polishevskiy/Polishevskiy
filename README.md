@@ -19,7 +19,7 @@
 - Version control system: **Git**
 - СI/CD: **Jenkins**
 - Test Automation Approaches: **DDT, KDT, TDD, BDD**
-- Development Best Practices: **KISS, YANGI, DRY, AAA, "F.I.R.S.T", "S.O.L.I.D"**
+- Development Best Practices: **S.O.L.I.D, KISS, DRY**
 - Auto test design patterns: **Page Object, Pojo**
 
 **HARD SKILLS**
