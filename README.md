@@ -18,7 +18,7 @@
 - Reporting: **Allure**
 - Version control system: **Git**
 - СI/CD: **Jenkins**
-- Test Automation Approaches: **DDT, KDT, TDD, BDD**
+- Test Automation Approaches: **TDD, BDD**
 - Development Best Practices: **S.O.L.I.D, KISS, DRY**
 - Auto test design patterns: **Page Object, Pojo**
 
