@@ -14,13 +14,11 @@
 - Programming language: **Java**
 - UI Automation: **Selenium WebDriver, Selenide**
 - API Automation: **RestAssured**
-- Unit testing framework: **JUnit**
+- Unit testing framework: **JUnit**, **TestNG**
 - Reporting: **Allure**
 - Version control system: **Git**
-- СI/CD: **Jenkins**
-- Test Automation Approaches: **TDD, BDD**
+- СI/CD: **GitLab**, **Jenkins**
 - Development Best Practices: **S.O.L.I.D, KISS, DRY**
-- Auto test design patterns: **Page Object, Pojo**
 
 **HARD SKILLS**
 
@@ -29,8 +27,6 @@
 - Experience in UI Automation Selenium Web Driver/Selenide
 - Experience in API Automation RestAssured
 - Experience with Reporting Tools (Allure)
-- Experience with CI/CD Tools (Jenkins)
+- Experience with CI/CD Tools (Jenkins, GitLab)
 - Experience with Version control system (Git)
-- Knowledge of SQL
-- Basic knowledge of design patterns (Page Object, Pojo)
 - Experience in developing test automation framework from scratch
